@@ -1,4 +1,3 @@
-// src/components/DocumentGenerator.js
 import React from "react";
 import PizZip from "pizzip";
 import Docxtemplater from "docxtemplater";
